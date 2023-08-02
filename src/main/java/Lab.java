@@ -8,6 +8,7 @@ public class Lab {
      *          for(1; 2; 3;){
      *              //code running inside loop
      *          }
+     * 
      *      1. we declare some variable (by convention, called i, j, or k)
      *      2. we define a condition that must be met for the code within the block to run (usually to do with the variable)
      *      3. we define some operation that happens at the end of that block (usually incrementing/decrementing i).
